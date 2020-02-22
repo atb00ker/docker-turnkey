@@ -7,3 +7,4 @@
 Plug and play docker images for examining features of following applications:
 
 - [Gephi](gephi/README.md)
+- [Chrome](chrome/README.md)
