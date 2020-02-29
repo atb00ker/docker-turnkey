@@ -6,5 +6,6 @@
 
 Plug and play docker images for examining features of following applications:
 
-- [Gephi](gephi/README.md)
-- [Chrome](chrome/README.md)
+- [Gephi](https://github.com/atb00ker/docker-turnkey/blob/master/gephi/README.md)
+- [Chrome](https://github.com/atb00ker/docker-turnkey/blob/master/chrome/README.md)
+- [FreeRDP](https://github.com/atb00ker/docker-turnkey/blob/master/freerdp/README.md)
